@@ -3,8 +3,7 @@ Type: Package
 Title: Harry Potter Book Series
 Version: 0.1.0
 Authors@R: c(
-    person("Bradley", "Boehmke", email = "bradleyboehmke@gmail.com", role = c("aut", "cre")),
-    person("Zeeshan", "Ali", email = "zeeshan.ali0215@gmail.com", role = c("aut"))
+    person("Bradley", "Boehmke", email = "bradleyboehmke@gmail.com", role = c("aut", "cre"))
     )
 Maintainer: Bradley Boehmke <bradleyboehmke@gmail.com>
 Description: Includes full text of books 1-7 from J.K. Rowling's Harry Potter

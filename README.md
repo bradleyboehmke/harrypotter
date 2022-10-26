@@ -2,7 +2,7 @@
 An R Package for J.K. Rowling's Harry Potter Series
 ---------------------------------------------------
 
-This package provides access to the full texts of the first seven Harry Potter books. The UTF-8 plain text for each novel was sourced from [Read Vampire Books](www.readbooksvampire.com), processed a bit, and is ready for text analysis. Each text is in a character vector with each element representing a single chapter. The package contains:
+This package provides access to the full texts of the first seven Harry Potter books. The UTF-8 plain text for each novel was sourced from [Read Vampire Books]([www.readbooksvampire.com](https://web.archive.org/web/20170603205600/http://readbooksvampire.com/)), processed a bit, and is ready for text analysis. Each text is in a character vector with each element representing a single chapter. The package contains:
 
 -   `philosophers_stone`: Harry Potter and the Philosophers Stone, published in 1997
 -   `chamber_of_secrets`: Harry Potter and the Chamber of Secrets, published in 1998
